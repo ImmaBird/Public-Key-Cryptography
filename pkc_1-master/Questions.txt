@@ -1,0 +1,10 @@
+Part2: Encrypting twice and decrypting twice gets you the original.
+
+Part3: It does not work because the algorithoms do differenly things it would be comparable to muliplying a number by 5 then dividing by 3 and expecting the original number.
+
+Part4: No, this would not work for the same reason in part 3.
+
+Part5: Serializable means that the data can be sent serially usefull for sending something over a network.
+		A SealedObject is one that encapsalates a serialized object and can be encrypted so that it can pe sent securly over a network.
+
+Part6: Encrypt with 3DES then AES to decrypt use AES then 3DES.

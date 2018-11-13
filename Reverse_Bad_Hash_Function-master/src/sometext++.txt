@@ -1,0 +1,5 @@
+Hello this is a sample of text so that I can test the SHA-256 hashing algorithm.
+Just another line.
+And how about another one just to make sure.
+This is really fun I think I'll just add some more text.
+Hi Leon

@@ -1,0 +1,2 @@
+This is some text to enxrypt.
+end of file.
